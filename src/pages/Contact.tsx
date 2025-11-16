@@ -44,19 +44,19 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "yasin@example.com",
-      href: "mailto:yasin@example.com",
+      value: "yhusen636@gmail.com",
+      href: "mailto:yhusen636@gmail.com",
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+1 (555) 123-4567",
+      value: "+251-920-493-921",
       href: "tel:+15551234567",
     },
     {
       icon: MapPin,
       label: "Location",
-      value: "San Francisco, CA",
+      value: "Ethiopia, AA",
       href: null,
     },
   ];
@@ -65,12 +65,12 @@ const Contact = () => {
     {
       icon: Github,
       label: "GitHub",
-      href: "https://github.com",
+      href: "https://github.com/yasinhusenwako",
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/yasin-husen-79a3a5364/",
     },
   ];
 
@@ -83,8 +83,8 @@ const Contact = () => {
             Get in <span className="text-primary">Touch</span>
           </h1>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Have a project in mind or want to collaborate? I'd love to hear from you.
-            Send me a message and I'll respond as soon as possible.
+            Have a project in mind or want to collaborate? I'd love to hear from
+            you. Send me a message and I'll respond as soon as possible.
           </p>
         </div>
 

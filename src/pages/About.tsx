@@ -7,7 +7,8 @@ const About = () => {
     {
       icon: Code,
       title: "Clean Code",
-      description: "Writing maintainable and scalable code following best practices",
+      description:
+        "Writing maintainable and scalable code following best practices",
     },
     {
       icon: Lightbulb,
@@ -35,7 +36,8 @@ const About = () => {
             About <span className="text-primary">Me</span>
           </h1>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Passionate fullstack developer dedicated to crafting exceptional web experiences
+            Passionate fullstack developer dedicated to crafting exceptional web
+            experiences
           </p>
         </div>
 
@@ -55,43 +57,44 @@ const About = () => {
           <div className="space-y-6 animate-fade-in">
             <h2 className="text-3xl font-bold">Yasin Husen</h2>
             <h3 className="text-xl text-primary">Fullstack Web Developer</h3>
-            
+
             <div className="space-y-4 text-muted-foreground">
               <p>
-                I'm a passionate fullstack web developer with over 5 years of experience
-                building modern, responsive, and user-friendly web applications. My journey
-                in web development started with a curiosity about how websites work, and
-                it has evolved into a fulfilling career creating digital solutions.
+                I'm a passionate fullstack web developer with over 5 years of
+                experience building modern, responsive, and user-friendly web
+                applications. My journey in web development started with a
+                curiosity about how websites work, and it has evolved into a
+                fulfilling career creating digital solutions.
               </p>
               <p>
-                I specialize in building scalable applications using the latest technologies,
-                with a strong focus on performance, accessibility, and user experience. My
-                approach combines technical expertise with creative problem-solving to
-                deliver exceptional results.
+                I specialize in building scalable applications using the latest
+                technologies, with a strong focus on performance, accessibility,
+                and user experience. My approach combines technical expertise
+                with creative problem-solving to deliver exceptional results.
               </p>
               <p>
-                When I'm not coding, I enjoy staying up-to-date with the latest web
-                technologies, contributing to open-source projects, and sharing knowledge
-                with the developer community.
+                When I'm not coding, I enjoy staying up-to-date with the latest
+                web technologies, contributing to open-source projects, and
+                sharing knowledge with the developer community.
               </p>
             </div>
 
             <div className="grid grid-cols-2 gap-4 pt-4">
               <div>
                 <p className="text-sm text-muted-foreground">Email</p>
-                <p className="font-medium">yasin@example.com</p>
+                <p className="font-medium">yhusen636@gmail.com</p>
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">Location</p>
-                <p className="font-medium">San Francisco, CA</p>
+                <p className="font-medium">Ethiopia, AA</p>
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">Experience</p>
-                <p className="font-medium">5+ Years</p>
+                <p className="font-medium">3+ Years</p>
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">Projects</p>
-                <p className="font-medium">100+ Completed</p>
+                <p className="font-medium">10+ Completed</p>
               </div>
             </div>
           </div>
@@ -112,7 +115,9 @@ const About = () => {
                 <div className="mb-4 inline-flex p-3 rounded-lg bg-primary/10">
                   <highlight.icon className="h-6 w-6 text-primary" />
                 </div>
-                <h3 className="text-xl font-semibold mb-2">{highlight.title}</h3>
+                <h3 className="text-xl font-semibold mb-2">
+                  {highlight.title}
+                </h3>
                 <p className="text-sm text-muted-foreground">
                   {highlight.description}
                 </p>

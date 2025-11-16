@@ -44,7 +44,8 @@ const Skills = () => {
             My <span className="text-primary">Skills</span>
           </h1>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            A comprehensive overview of my technical expertise and proficiency levels
+            A comprehensive overview of my technical expertise and proficiency
+            levels
           </p>
         </div>
 
@@ -89,11 +90,11 @@ const Skills = () => {
             <p className="text-muted-foreground">Technologies Mastered</p>
           </Card>
           <Card className="p-6 text-center bg-card border-border">
-            <div className="text-3xl font-bold text-primary mb-2">5+</div>
+            <div className="text-3xl font-bold text-primary mb-2">3+</div>
             <p className="text-muted-foreground">Years Experience</p>
           </Card>
           <Card className="p-6 text-center bg-card border-border">
-            <div className="text-3xl font-bold text-primary mb-2">100+</div>
+            <div className="text-3xl font-bold text-primary mb-2">10+</div>
             <p className="text-muted-foreground">Projects Completed</p>
           </Card>
         </div>

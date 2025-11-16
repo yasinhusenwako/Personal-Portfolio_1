@@ -32,9 +32,7 @@ const Home = () => {
                 </Link>
               </Button>
               <Button asChild variant="outline" size="lg">
-                <Link to="/contact">
-                  Contact Me
-                </Link>
+                <Link to="/contact">Contact Me</Link>
               </Button>
             </div>
           </div>
@@ -56,9 +54,9 @@ const Home = () => {
       <section className="container mx-auto px-4 py-16">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           {[
-            { number: "5+", label: "Years Experience" },
-            { number: "100+", label: "Projects Completed" },
-            { number: "50+", label: "Happy Clients" },
+            { number: "3+", label: "Years Experience" },
+            { number: "10+", label: "Projects Completed" },
+            { number: "5+", label: "Happy Clients" },
             { number: "15+", label: "Technologies" },
           ].map((stat, index) => (
             <div
