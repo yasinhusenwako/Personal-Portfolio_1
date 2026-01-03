@@ -1,15 +1,15 @@
 Set-Content -Path "c:\Users\user\Desktop\Folders\Applications\MY-Portfolio\README.md" -Value "# Yasin's Web Studio
 
-A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. This project showcases my skills, projects, and professional experience as a web developer.
+A modern, responsive portfolio website built with React, JavaScript, and Tailwind CSS. This project showcases my skills, projects, and professional experience as a web developer.
 
 ## 🚀 Features
 
-- **Modern Tech Stack**: Built with React 18, TypeScript, and Vite for optimal performance
+- **Modern Tech Stack**: Built with React 18, JavaScript, and Vite for optimal performance
 - **Beautiful UI**: Styled with Tailwind CSS and shadcn/ui components
 - **Responsive Design**: Fully responsive layout that works on all devices
 - **Dark Mode**: Built-in dark mode support with smooth transitions
 - **Interactive Components**: Rich interactions using Radix UI primitives
-- **Type Safety**: Full TypeScript implementation for better code quality
+- **Type Safety**: Full JavaScript implementation for better code quality
 
 ## 🛠️ Technologies Used
 
@@ -30,26 +30,6 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 - **ESLint** - Code linting
 - **PostCSS** - CSS processing
 - **Autoprefixer** - CSS vendor prefixes
-
-## 📦 Installation
-
-1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/yasinhusenwako/yasin-s-web-studio.git
-   cd yasin-s-web-studio
-   \`\`\`
-
-2. Install dependencies:
-   \`\`\`bash
-   npm install
-   \`\`\`
-
-3. Start the development server:
-   \`\`\`bash
-   npm run dev
-   \`\`\`
-
-4. Open your browser and navigate to \`http://localhost:5173\`
 
 ## 🚀 Available Scripts
 
@@ -85,7 +65,7 @@ This project uses a comprehensive design system built on:
 
 - **Vite Config**: Optimized build configuration with React SWC
 - **Tailwind Config**: Custom design tokens and utilities
-- **TypeScript Config**: Strict type checking and modern features
+- **JavaScript Config**: Strict type checking and modern features
 - **ESLint Config**: Code quality and consistency rules
 
 ## 📱 Browser Support
@@ -94,21 +74,6 @@ This project uses a comprehensive design system built on:
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 📞 Contact
-
-- **Portfolio**: [Your Portfolio URL]
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
 
 ---
 

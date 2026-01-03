@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { NavLink } from "@/components/NavLink";
+import NavLink from "@/components/NavLink";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
