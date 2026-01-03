@@ -1,57 +1,115 @@
-# Welcome to my Portfolio
+Set-Content -Path "c:\Users\user\Desktop\Folders\Applications\MY-Portfolio\README.md" -Value "# Yasin's Web Studio
 
-## Project info
+A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. This project showcases my skills, projects, and professional experience as a web developer.
 
-**URL**:
+## 🚀 Features
 
-## How can I edit this code?
+- **Modern Tech Stack**: Built with React 18, TypeScript, and Vite for optimal performance
+- **Beautiful UI**: Styled with Tailwind CSS and shadcn/ui components
+- **Responsive Design**: Fully responsive layout that works on all devices
+- **Dark Mode**: Built-in dark mode support with smooth transitions
+- **Interactive Components**: Rich interactions using Radix UI primitives
+- **Type Safety**: Full TypeScript implementation for better code quality
 
-There are several ways of editing your application.
+## 🛠️ Technologies Used
 
-Changes made via Lovable will be committed automatically to this repo.
+### Frontend
 
-**Use your preferred IDE**
+- **React 18** - UI framework
+- **JavaScript** - Type safety
+- **Vite** - Build tool and dev server
+- **Tailwind CSS** - Utility-first CSS framework
+- **shadcn/ui** - High-quality UI components
+- **Radix UI** - Low-level UI primitives
+- **React Router** - Client-side routing
+- **React Hook Form** - Form handling
+- **Lucide React** - Icon library
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Development Tools
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **ESLint** - Code linting
+- **PostCSS** - CSS processing
+- **Autoprefixer** - CSS vendor prefixes
 
-Follow these steps:
+## 📦 Installation
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+1. Clone the repository:
+   \`\`\`bash
+   git clone https://github.com/yasinhusenwako/yasin-s-web-studio.git
+   cd yasin-s-web-studio
+   \`\`\`
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+2. Install dependencies:
+   \`\`\`bash
+   npm install
+   \`\`\`
 
-# Step 3: Install the necessary dependencies.
-npm i
+3. Start the development server:
+   \`\`\`bash
+   npm run dev
+   \`\`\`
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+4. Open your browser and navigate to \`http://localhost:5173\`
 
-**Edit a file directly in GitHub**
+## 🚀 Available Scripts
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- \`npm run dev\` - Start development server
+- \`npm run build\` - Build for production
+- \`npm run build:dev\` - Build for development
+- \`npm run preview\` - Preview production build
+- \`npm run lint\` - Run ESLint
 
-**Use GitHub Codespaces**
+## 📁 Project Structure
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+\`\`\`
+src/
+├── components/ # Reusable UI components
+├── pages/ # Page components
+├── hooks/ # Custom React hooks
+├── lib/ # Utility functions
+├── assets/ # Static assets
+├── App.tsx # Main App component
+└── main.tsx # Application entry point
+\`\`\`
 
-## What technologies are used for this project?
+## 🎨 Design System
 
-This project is built with:
+This project uses a comprehensive design system built on:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Color Palette**: Consistent color scheme with CSS variables
+- **Typography**: Clean, readable typography system
+- **Spacing**: Consistent spacing using Tailwind's spacing scale
+- **Components**: Reusable component library with shadcn/ui
+
+## 🔧 Configuration
+
+- **Vite Config**: Optimized build configuration with React SWC
+- **Tailwind Config**: Custom design tokens and utilities
+- **TypeScript Config**: Strict type checking and modern features
+- **ESLint Config**: Code quality and consistency rules
+
+## 📱 Browser Support
+
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 📞 Contact
+
+- **Portfolio**: [Your Portfolio URL]
+- **Email**: your.email@example.com
+- **GitHub**: [Your GitHub Profile]
+- **LinkedIn**: [Your LinkedIn Profile]
+
+---
+
+Built with ❤️ using React, JavaScript, and Tailwind CSS"
